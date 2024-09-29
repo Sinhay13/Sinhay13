@@ -1,16 +1,13 @@
-### Hi there 👋
+👋 Hi there! I’m a Full Stack Developer based in Tokyo, Japan. I love solving problems, building things, and bringing ideas to life through code.
 
-<!--
-**Sinhay13/Sinhay13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Skills & Tools:
 
-Here are some ideas to get you started:
+	•	Languages: HTML, CSS, JavaScript, TypeScript, Python, Golang, SQL
+	•	Frameworks: Vue.js, React.js, Node.js, Express.js, Django
+	•	Databases: MySQL, MongoDB, SQLite, FoundationDB
+	•	DevOps: Docker, Kubernetes, CI/CD, Bash/Shell
+	•	Specialties: Web scraping, Chrome Extensions, Responsive Design, RESTful APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 Currently at TENKI-JAPAN, building dashboards, APIs, and all things full stack. Previously a Freelance Developer and a Quality Control Engineer. Yep, I’ve worn many hats!
+
+🚀 When I’m not coding, you’ll find me exploring new technologies, diving into personal projects, or just enjoying the vibrant Tokyo life.
